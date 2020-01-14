@@ -4,11 +4,10 @@ This app uses the API of other websites and gives you an RSS feed in return. Qui
 
 To open `vlc://` links, see [vlc-protocol](https://github.com/stefansundin/vlc-protocol).
 
-You can use this app freely at [rssbox.herokuapp.com](https://rssbox.herokuapp.com/). An experimental Elastic Beanstalk version [is available](https://rssbox.us-west-2.elasticbeanstalk.com/).
 
 ## Roll your own
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/stefansundin/rssbox)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pawelorzech/rssbox)
 
 To deploy to Elastic Beanstalk, see [.ebextensions/README.md](.ebextensions/README.md).
 
